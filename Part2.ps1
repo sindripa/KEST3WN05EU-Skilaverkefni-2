@@ -1,0 +1,1 @@
+﻿Install-ADDSForest -DomainName sindri.local -InstallDns
