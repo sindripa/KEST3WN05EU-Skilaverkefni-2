@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Printers clsid="{1F577D12-3D1B-471e-A1B7-060317597B9C}"><SharedPrinter clsid="{9A5E9697-9095-436d-A0EE-4D128FDFBCE5}" name="FramleiðsludeildPrinter" status="FramleiðsludeildPrinter" image="2" changed="2020-03-12 16:15:57" uid="{B2A3D859-2B4D-4990-80B2-7AA7B5C26151}" userContext="1" bypassErrors="1"><Properties action="U" comment="" path="\\DC1\FramleiðsludeildPrinter" location="" default="1" skipLocal="1" deleteAll="0" persistent="1" deleteMaps="0" port="FramleiðsludeildPrintPort"/></SharedPrinter>
+</Printers>
